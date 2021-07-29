@@ -1,2 +1,2 @@
-# Password-Decryption-Problem-Hackerrank Problem Solving Certification
+# Password Decryption Problem - Hackerrank Problem Solving Certification
 
